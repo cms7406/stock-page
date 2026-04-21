@@ -1,0 +1,11 @@
+{
+  "stock_symbol": "301536.SZ",
+  "shares": 25000,
+  "tax_rate": 0.1,
+  "stock_price_cny": 0,
+  "total_value_cny": 0,
+  "cny_to_twd_rate": 0,
+  "total_value_twd": 0,
+  "net_value_twd_after_tax": 0,
+  "updated_at": "尚未更新"
+}
