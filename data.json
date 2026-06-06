@@ -4,8 +4,8 @@
   "tax_rate": 0.1,
   "stock_price_cny": 78.35,
   "total_value_cny": 1958749.96,
-  "cny_to_twd_rate": 4.640371,
-  "total_value_twd": 9089326.52,
-  "net_value_twd_after_tax": 8180393.87,
-  "updated_at": "2026-06-06 08:05:32"
+  "cny_to_twd_rate": 4.651163,
+  "total_value_twd": 9110465.35,
+  "net_value_twd_after_tax": 8199418.81,
+  "updated_at": "2026-06-06 12:36:28"
 }
