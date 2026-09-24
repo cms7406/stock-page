@@ -3,9 +3,9 @@
   "shares": 25000,
   "tax_rate": 0.1,
   "stock_price_cny": 130.6,
-  "total_value_cny": 3265000.0,
+  "total_value_cny": 3265000.15,
   "cny_to_twd_rate": 4.728132,
-  "total_value_twd": 15437350.98,
-  "net_value_twd_after_tax": 13893615.88,
-  "updated_at": "2026-09-25 02:32:50"
+  "total_value_twd": 15437351.7,
+  "net_value_twd_after_tax": 13893616.53,
+  "updated_at": "2026-09-25 05:59:01"
 }
