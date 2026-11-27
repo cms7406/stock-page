@@ -2,10 +2,10 @@
   "stock_symbol": "301536.SZ",
   "shares": 25000,
   "tax_rate": 0.1,
-  "stock_price_cny": 76.36,
-  "total_value_cny": 1909000.0,
-  "cny_to_twd_rate": 4.950495,
-  "total_value_twd": 9450494.96,
-  "net_value_twd_after_tax": 8505445.46,
-  "updated_at": "2026-11-27 02:20:23"
+  "stock_price_cny": 77.33,
+  "total_value_cny": 1933250.05,
+  "cny_to_twd_rate": 4.96771,
+  "total_value_twd": 9603825.58,
+  "net_value_twd_after_tax": 8643443.03,
+  "updated_at": "2026-11-27 09:51:36"
 }
